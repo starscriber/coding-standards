@@ -1,4 +1,4 @@
 coding-standards
 ================
 
-Nothing here to see, please see the Wiki.
+Nothing to see here people. Move along to the Wiki.
